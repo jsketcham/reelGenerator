@@ -1,4 +1,4 @@
-    generate short 16 channel .WAV files to demo dtsPlayer, dtsGenerator.
+    An Octave script that generates short 16 channel .WAV files to demo dtsPlayer, dtsGenerator.
     Copyright (C) 2026  James S. Ketcham jsketcham@earthlink.net
 
     This program is free software: you can redistribute it and/or modify
