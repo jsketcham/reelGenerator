@@ -12,7 +12,7 @@
         is the reel number, first being reel 1 etc. There are selectors for DTS and SMPTE timecode
         and source selector, choose 'DTS' and 'left' for this test. Press 'Play' to start the player. 
         
-    3) start dtsGenerator, select an audio out for dts timecode. I use a USB audio out, and
+    3) run dtsGenerator, select an audio out for dts timecode. I use a USB audio out, and
         loop the output, with a 3.5mm audio cable, to the dtsPlayer timecode input. dtsGenerator
         outputs on L and R. 
 
