@@ -21,7 +21,7 @@
 
     4) Press dtsGenerator 'Play'. you should see DTS timecode incrementing in the player, 
         and audio should play. dtsGenerator, as supplied, generates reels of 101,102,103,104,105
-        frames, less than 4 seconds, so you should hear the crossfade when reels change. 
+        frames, each less than 4 seconds, so you should hear the crossfade when reels change. 
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
