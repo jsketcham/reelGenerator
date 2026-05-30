@@ -3,8 +3,10 @@
 
     How to use:
     
-    1) create short WAVs, this script generates 5 reels of 4 seconds each. 
-    
+    1) create short WAVs, this script generates 5 reels of 4 seconds each, in the ~/dts/1234 
+        directory. Serial numbers (the '1234' part of the path) are not used yet, but will 
+        distiguish between various shows.
+        
     2) run dtsPlayer, select an aggregate device (you may have to create one using 'Audio
         Midi Setup') with a timecode input and an audio output. DtsPlayer will output to
         devices of up to 16 channels. Open the sample WAVs ('Open File'), highlighting them all. 
