@@ -1,5 +1,5 @@
 % create test reels for dtsPlayer
-% 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
+
 % 1) create path dts/reels in home directory
 
 % Works on macOS and Linux
